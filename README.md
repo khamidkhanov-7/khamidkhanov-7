@@ -34,6 +34,5 @@
 
 ![Khamidkhanov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=tokyonight)
 
----
 
-> ⚙️ Created by *Khamidkhanov Muhammadzohid*
+
