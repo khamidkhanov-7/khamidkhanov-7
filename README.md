@@ -1,14 +1,20 @@
-# 👋 Khamidkhanov Muhammadzohid
+# 👋 Hi, I'm Khamidkhanov Muhammadzohid  
 
-🎓 I'm a high school student from Uzbekistan with a passion for technology and programming.
+🎓 High school student from **Uzbekistan** passionate about web development and technology.  
 
-💻 I'm currently working on: **Kalkulyator & Currency Converter**  
-🚀 I'm currently learning: **HTML, CSS, JavaScript, Python**  
-💬 Ask me about: **Frontend, Git, Python basics**  
-📫 How to reach me: khamidkhanovv7@gmail.com  
-😄 Fun fact: I love building interactive and terminal-based apps!
+💻 **Currently working on:** EasyShop E-Commerce Project (Flask + Django)  
+🚀 **Currently learning:** Django · Python · Node.js · React · JavaScript  
+💬 **Ask me about:** Frontend basics · Git · Python  
+📫 **Reach me at:** [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)  
+😄 **Fun fact:** I love building both interactive web apps and terminal-based tools.  
 
 ---
+
+### 🌐 Connect with me:
+[![Telegram](https://img.shields.io/badge/Telegram-Khamidkhanov7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khamidkhanov7)
+[![Instagram](https://img.shields.io/badge/Instagram-khamidkhanov.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khamidkhanov.7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khamidkhanov7/)
+
 
 ## 🌐 Connect with me
 
