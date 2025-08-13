@@ -10,12 +10,6 @@
 
 ---
 
-### 🌐 Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-Khamidkhanov7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khamidkhanov7)
-[![Instagram](https://img.shields.io/badge/Instagram-khamidkhanov.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khamidkhanov.7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khamidkhanov7/)
-
-
 ## 🌐 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidkhanov7)
