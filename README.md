@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidkhanov7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khamidkhanov.7)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@khamidkhanov7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khamidkhanov7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo](https://leetcode.com/u/khamidkhanov7/)
 
 
 
