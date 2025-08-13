@@ -1,45 +1,45 @@
-# 👋 Hi, I'm Khamidkhanov Muhammadzohid  
+<h1 align="center">Hi 👋, I'm Khamidkhanov Muhammadzohid</h1>
+<h3 align="center">A passionate full-stack learner from Uzbekistan</h3>
 
-🎓 High school student from **Uzbekistan** passionate about web development and technology.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khamidkhanov-7&label=Profile%20views&color=0e75b6&style=flat" alt="khamidkhanov-7" />
+</p>
 
-💻 **Currently working on:** EasyShop E-Commerce Project (Flask + Django)  
-🚀 **Currently learning:** Django · Python · Node.js · React · JavaScript  
-💬 **Ask me about:** Frontend basics · Git · Python  
-📫 **Reach me at:** [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)  
-😄 **Fun fact:** I love building both interactive web apps and terminal-based tools.  
+---
+
+## 🚀 About Me
+- 🛠 **Currently working on:** EasyShop E-Commerce (Flask + Django)
+- 📚 **Currently learning:** Django, Flask, JavaScript, REST APIs
+- 💬 **Ask me about:** Python, Git, Frontend basics, Django
+- 📧 **How to reach me:** [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)
+- ⚡ **Fun fact:** I enjoy creating both interactive web apps and terminal-based tools.
 
 ---
 
 ## 🌐 Connect with me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidkhanov7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khamidkhanov.7)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@khamidkhanov7)
+[![Telegram](https://img.shields.io/badge/Telegram-Khamidkhanov7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khamidkhanov7)
+[![Instagram](https://img.shields.io/badge/Instagram-khamidkhanov.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khamidkhanov.7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khamidkhanov7/)
 
 ---
 
 ## 🛠 Languages and Tools
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=tokyonight" alt="Khamidkhanov's GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=tokyonight"
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
