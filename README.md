@@ -5,7 +5,7 @@
 💻 I'm currently working on: **Kalkulyator & Currency Converter**  
 🚀 I'm currently learning: **HTML, CSS, JavaScript, Python**  
 💬 Ask me about: **Frontend, Git, Python basics**  
-📫 How to reach me: khamidkhanov.7@gmail.com  
+📫 How to reach me: khamidkhanovv7@gmail.com  
 😄 Fun fact: I love building interactive and terminal-based apps!
 
 ---
