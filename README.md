@@ -17,10 +17,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@khamidkhanov7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-khamidkhanov7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khamidkhanov7/)
 
-
-
-
 ---
+
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -35,13 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
-![Khamidkhanov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=tokyonight" alt="Khamidkhanov's GitHub Stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
