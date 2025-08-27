@@ -34,6 +34,9 @@
 </p>
 
 ---
+## My Certificate 🏆
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/khamidkhanov7/scientific-computing-with-python-v7)
+
 
 ### 🛠️ Languages and Tools
 
