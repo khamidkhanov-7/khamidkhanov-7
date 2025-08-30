@@ -13,27 +13,22 @@
 </p>
 
 ---
-
-### 🚀 About Me
-
-
+🚀 **About Me**  
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <ul>
-      <li>🔭 I’m currently working on ****</li>
-      <li>🌱 I’m currently learning <b>Django</b>, <b>Python</b>, <b>Node.js</b>, <b>React</b></li>
-      <li>💬 Ask me about: <b>Backend basics, Git, Python, Django</b></li>
-      <li>📫 How to reach me: <a href="mailto:khamidkhanovv7@gmail.com">khamidkhanovv7@gmail.com</a></li>
-      <li>⚡ Fun fact: I love building both interactive web apps and terminal-based tools.</li>
+      <li>🔨 I'm currently working on <b>DRF</b></li>
+      <li>🌱 I'm currently learning <b>Django</b>, <b>Flask</b></li>
+      <li>💬 Ask me about: <b>Python</b>, <b>Flask</b>, <b>Git</b>, <b>PostgreSQL</b></li>
+      <li>📧 How to reach me: <a href="mailto:khasanbayev.7@mail.ru">khasanbayev.7@mail.ru</a></li>
+      <li>⚡ Fun fact: I love building unique command-based terminal apps.</li>
     </ul>
   </div>
   <div>
-    <img src="https://media2.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300" />
+    <img src="https://media2.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="250" />
   </div>
 </div>
-
-
 
 
 ---
