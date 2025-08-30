@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **EasyShop E-Commerce (Flask + Django)**
 - 🌱 I’m currently learning **Django**, **Python**, **Node.js**, **React**
-- 💬 Ask me about: **Frontend basics, Git, Python, Django **
+- 💬 Ask me about: **Backend basics, Git, Python, Django **
 - 📫 How to reach me: [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)
 - ⚡ Fun fact: I love building both interactive web apps and terminal-based tools.
 
