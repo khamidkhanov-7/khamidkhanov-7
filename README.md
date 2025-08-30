@@ -1,3 +1,12 @@
+<br><br> <!-- shu joy gifni pastroqqa tushiradi -->
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gydDNrazRqc2RnMHU5aXN2ejlscnBuZHFyYjRvYXo0cXQ5eHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" height="200" />
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Khamidkhanov Muhammadzohid</h1>
 <h3 align="center">💻 A passionate backend & web developer from Uzbekistan 🇺🇿</h3>
 
@@ -9,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **EasyShop E-Commerce (Flask + Django)**
+- 🔭 I’m currently working on ****
 - 🌱 I’m currently learning **Django**, **Python**, **Node.js**, **React**
 - 💬 Ask me about: **Backend basics, Git, Python, Django **
 - 📫 How to reach me: [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)
