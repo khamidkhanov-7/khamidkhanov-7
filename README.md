@@ -5,7 +5,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Khamidkhanov Muhammadzohid</h1>
 <h3 align="center">💻 A passionate backend & web developer from Uzbekistan 🇺🇿</h3>
 
@@ -17,11 +16,25 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on ****
-- 🌱 I’m currently learning **Django**, **Python**, **Node.js**, **React**
-- 💬 Ask me about: **Backend basics, Git, Python, Django **
-- 📫 How to reach me: [khamidkhanovv7@gmail.com](mailto:khamidkhanovv7@gmail.com)
-- ⚡ Fun fact: I love building both interactive web apps and terminal-based tools.
+
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <ul>
+      <li>🔭 I’m currently working on ****</li>
+      <li>🌱 I’m currently learning <b>Django</b>, <b>Python</b>, <b>Node.js</b>, <b>React</b></li>
+      <li>💬 Ask me about: <b>Backend basics, Git, Python, Django</b></li>
+      <li>📫 How to reach me: <a href="mailto:khamidkhanovv7@gmail.com">khamidkhanovv7@gmail.com</a></li>
+      <li>⚡ Fun fact: I love building both interactive web apps and terminal-based tools.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media2.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300" />
+  </div>
+</div>
+
+
+
 
 ---
 
@@ -54,12 +67,8 @@
 
 ---
 
+
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamidkhanov-7&show_icons=true&theme=radical" alt="khamidkhanov-7" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidkhanov-7&layout=compact&theme=dark" />
 </p>
