@@ -21,7 +21,7 @@
       <li>🔨 I'm currently working on <b>DRF</b></li>
       <li>🌱 I'm currently learning <b>Django</b>, <b>Flask</b></li>
       <li>💬 Ask me about: <b>Python</b>, <b>Flask</b>, <b>Git</b>, <b>PostgreSQL</b></li>
-      <li>📧 How to reach me: <a href="mailto:khasanbayev.7@mail.ru">khasanbayev.7@mail.ru</a></li>
+      <li>📧 How to reach me: <a href="mailto:khasanbayev.7@mail.ru">khamidkhanovv7@gmail.com</a></li>
       <li>⚡ Fun fact: I love building unique command-based terminal apps.</li>
     </ul>
   </div>
