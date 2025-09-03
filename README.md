@@ -3,10 +3,16 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gydDNrazRqc2RnMHU5aXN2ejlscnBuZHFyYjRvYXo0cXQ5eHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" height="200" />
 </div>
 
-
-<h1 style="text-align: center; font-family: 'Poppins', sans-serif; font-size: 2.5rem; font-weight: 600; color: #333;">
+<h1 style="text-align: center; 
+           font-family: 'Poppins', sans-serif; 
+           font-size: 2.8rem; 
+           font-weight: bold; 
+           background: linear-gradient(90deg, #ff00cc, #3333ff); 
+           -webkit-background-clip: text; 
+           -webkit-text-fill-color: transparent;">
   I'm Khamidkhanov Muhammadzohid
 </h1>
+
 
 
 <h3 align="center">💻 A passionate backend & web developer from Uzbekistan 🇺🇿</h3>
