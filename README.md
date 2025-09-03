@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Khamidkhanov Muhammadzohid</h1>
+<h1 align="center" I'm Khamidkhanov Muhammadzohid</h1>
 <h3 align="center">💻 A passionate backend & web developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
