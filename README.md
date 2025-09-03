@@ -1,16 +1,12 @@
-
+<!-- Header GIF -->
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gydDNrazRqc2RnMHU5aXN2ejlscnBuZHFyYjRvYXo0cXQ5eHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" height="200" />
 </div>
+
+<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2200&pause=900&center=true&vCenter=true&repeat=true&width=700&lines=I'm+Khamidkhanov+Muhammadzohid;Backend+Developer;Python+%7C+Django+%7C+Flask" alt="typing intro" />
 </p>
-
-
-
-
-
-
 
 <h3 align="center">💻 A passionate backend & web developer from Uzbekistan 🇺🇿</h3>
 
@@ -19,36 +15,36 @@
 </p>
 
 ---
-🚀 **About Me**  
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <ul>
-      <li>🔨 I'm currently working on <b>DRF</b></li>
-      <li>🌱 I'm currently learning <b>Django</b>, <b>Flask</b></li>
-      <li>💬 Ask me about: <b>Python</b>, <b>Flask</b>, <b>Git</b>, <b>PostgreSQL</b></li>
-      <li>📧 How to reach me: <a href="mailto:khasanbayev.7@mail.ru">khamidkhanovv7@gmail.com</a></li>
-      <li>⚡ Fun fact: I love building unique command-based terminal apps.</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media2.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="250" />
-  </div>
+<h2 align="center" style="font-family: 'Fira Code', monospace;">🚀 About Me</h2> 
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <ul>
+          <li>🔨 I'm currently working on <b>DRF</b></li>
+          <li>🌱 I'm currently learning <b>Django</b>, <b>Flask</b></li>
+          <li>💬 Ask me about: <b>Python</b>, <b>Flask</b>, <b>Git</b>, <b>PostgreSQL</b></li>
+          <li>📧 How to reach me: <a href="mailto:khamidkhanovv7@gmail.com">khamidkhanovv7@gmail.com</a></li>
+          <li>⚡ Fun fact: I love building unique command-based terminal apps.</li>
+        </ul>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://media2.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="250" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
-### 🌐 Connect with me
-
-<p align="left">
+<h2 align="center" style="font-family: 'Fira Code', monospace;">🌐 Connect with me</h2>
+<p align="center">
   <a href="https://t.me/khamidkhanov7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
   <a href="https://www.instagram.com/khamidkhanov.7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-
- 
   </a>
   <a href="https://leetcode.com/u/khamidkhanov7/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
@@ -56,26 +52,34 @@
 </p>
 
 ---
-## My Certificate 🏆
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/khamidkhanov7/scientific-computing-with-python-v7)
 
 
-### 🛠️ Languages and Tools
+<h2 align="center" style="font-family: 'Fira Code', monospace;">🏆 My Certificate</h2>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/khamidkhanov7/scientific-computing-with-python-v7">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freeCodeCamp Certificate"/>
+  </a>
+</p>
 
-<p align="left">
+---
+
+<h2 align="center" style="font-family: 'Fira Code', monospace;">🛠️ Languages and Tools</h2>  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,git,postgres,linux,html,css,js" />
 </p>
 
 ---
 
-
-### 📊 GitHub Stats
+<h2 align="center" style="font-family: 'Fira Code', monospace;">📊 GitHub Stats</h2>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidkhanov-7&layout=compact&theme=dark" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-</picture>
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  </picture>
+</p>
