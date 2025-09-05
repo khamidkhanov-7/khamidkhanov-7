@@ -63,14 +63,16 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Fira Code', monospace;">🛠️ Languages and Tools</h2>  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,git,postgres,linux,html,css,js" />
-   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+<h2 align="center" style="font-family: 'Fira Code', monospace; color:#0ff;">🛠️ Languages & Tools</h2>
+<div align="center" style="background:#111; padding: 20px; border-radius:15px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,git,postgres,linux,html,css,js" height="50" style="border-radius:10px;" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="border-radius:10px;" alt="react" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="border-radius:10px;" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="border-radius:10px;" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="border-radius:10px;" alt="tailwind" />
 </div>
-</p>
+
+
 
 ---
 
