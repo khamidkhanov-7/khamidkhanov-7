@@ -66,6 +66,10 @@
 <h2 align="center" style="font-family: 'Fira Code', monospace;">🛠️ Languages and Tools</h2>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,git,postgres,linux,html,css,js" />
+   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+</div>
 </p>
 
 ---
