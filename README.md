@@ -22,11 +22,13 @@
     <tr>
       <td align="left" width="60%">
         <ul>
-          <li>🔨 I'm currently working on <b>DRF</b></li>
-          <li>🌱 I'm currently learning <b>Django</b>, <b>Flask</b></li>
-          <li>💬 Ask me about: <b>Python</b>, <b>Flask</b>, <b>Git</b>, <b>PostgreSQL</b></li>
-          <li>📧 How to reach me: <a href="mailto:khamidkhanovv7@gmail.com">khamidkhanovv7@gmail.com</a></li>
-          <li>⚡ Fun fact: I love building unique command-based terminal apps.</li>
+        <ul>
+          <li>🔨 <strong>Currently working on:</strong> DRF (Django Rest Framework)</li>
+          <li>🌱 <strong>Currently learning:</strong> Django </li>
+          <li>💬 <strong>Ask me about:</strong> Python, Flask, Git, PostgreSQL</li>
+          <li>📧 <strong>Contact me:</strong> <a href="mailto:khamidkhanovv7@gmail.com">khamidkhanovv7@gmail.com</a></li>
+          <li>🌐 <strong>My personal website:</strong> <a href="https://khamidkhanov.vercel.app/" target="_blank">khamidkhanov.vercel.app</a></li>
+          <li>⚡ <strong>Fun fact:</strong> I love building unique command-based terminal apps.</li>
         </ul>
       </td>
       <td align="center" width="40%">
