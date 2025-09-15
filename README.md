@@ -55,15 +55,16 @@
 
 ---
 
-
 <h2 align="center" style="font-family: 'Fira Code', monospace;">🏆 My Certificate</h2>
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/khamidkhanov7/scientific-computing-with-python-v7">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freeCodeCamp Certificate"/>
+
+<p align="center" style="font-family: 'Fira Code', monospace;">
+  <a href="https://www.freecodecamp.org/certification/khamidkhanov7/scientific-computing-with-python-v7" target="_blank" rel="noopener noreferrer" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freeCodeCamp Certificate" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/68da34a83536" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2EA44F?logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
   </a>
 </p>
-
----
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; color:#0ff;">🛠️ Languages & Tools</h2>
 <div align="center" style="background:#111; padding: 20px; border-radius:15px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
