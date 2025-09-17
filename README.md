@@ -83,6 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidkhanov-7&layout=compact&theme=dark" />
 </p>
 
+
 <!-- Snake Animation -->
 <p align="center">
   <picture>
