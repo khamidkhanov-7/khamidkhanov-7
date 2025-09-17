@@ -75,7 +75,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="border-radius:10px;" alt="tailwind" />
 </div>
 
-
 ---
 
 <h2 align="center" style="font-family: 'Fira Code', monospace;">📊 GitHub Stats</h2>  
