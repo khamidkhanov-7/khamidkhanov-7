@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gydDNrazRqc2RnMHU5aXN2ejlscnBuZHFyYjRvYXo0cXQ5eHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" height="200" />
 </div>
 
-<!-- Typing Intro -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2200&pause=900&center=true&vCenter=true&repeat=true&width=700&lines=I'm+Khamidkhanov+Muhammadzohid;Backend+Developer;Python+%7C+Django+%7C+Flask" alt="typing intro" />
 </p>
