@@ -83,7 +83,7 @@
 </p>
 
 
-<!-- Snake Animation -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
